@@ -1,0 +1,585 @@
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+c:\users\lnot3_000\documents\visual studio 2015\Projects\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Lou\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\BusinessIntelligenceDashboard (Backup 4 - 17 - 16)\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\G\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+D:\Documents\Senior Year (2016)\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Kyle\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Documents\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Lnot3_000\Desktop\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\Kevin\Documents\GitHub\SeniorDesign\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\csc.exe
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\vbc.exe
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DotNet.Highcharts.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.Platform.ServerClient.DotNet.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\DocuWare.RestClient.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Extensions.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Net.Http.Primitives.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Razor.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Webpages.Razor.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Helpers.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\System.Web.Mvc.xml
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csproj.App.config
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.csprojResolveAssemblyReference.cache
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\obj\Debug\BusinessIntelligenceDashboard.pdb
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll.config
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.dll
+C:\Users\G\Desktop\SeniorDesign-dev (1)\SeniorDesign-dev\C#\BusinessIntelligenceDashboard\BusinessIntelligenceDashboard\bin\BusinessIntelligenceDashboard.pdb

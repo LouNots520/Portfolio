@@ -1,0 +1,299 @@
+﻿/*StyleSheet for side bar*/
+
+/* Toggle Styles */
+
+/*This pageWrapper styling must stay in here*/
+#pageWrapper {
+    padding-left: 0px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#pageWrapper.toggled {
+    padding-left: 350px;/*pushes the body of graphs when menu is open*/
+    position:relative;
+}
+
+#sidebar-wrapper {
+    z-index:500;
+    position: fixed;
+    left: 350px;
+    width: 0;
+    height: calc(100% - 60px);
+    margin-left: -350px;
+    background: #47a3da; /*This gives color to the items inside the menus.*/
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#pageWrapper.toggled #sidebar-wrapper {/*This goes into effect when the page is minimized*/
+    width: 350px;
+}
+
+/*Sidebar Button Styling*/
+#showLeft {
+    position: absolute;
+    height: 100%;
+    width: 35px;
+    right: -35px;
+    top: 0px;
+}
+/*End Sidebar Button Styling*/
+
+#pageContentWrapper {
+    position: fixed;
+    padding: 2px !important;
+    overflow-y: auto;
+    height: 92vh;
+    margin-left:35px;
+    width:100%;
+}
+
+#pageContentWrapper .col-xs-6{
+    padding-top:5px;
+    margin-right:-15px;
+    width:49%;
+    overflow:hidden;
+}
+#pageContentWrapper .col-xs-6 .panel{
+    width:100%;
+   }
+
+#pageWrapper.toggled #pageContentWrapper {
+    position: fixed;
+    margin-right:0px;
+    width:100%;
+}
+
+/* Sidebar Styles */
+.sidebar-nav {
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+
+/*properties for the links*/
+.sidebar-nav a {
+	display: inline-block;
+	color: #fff;
+	font-size: 1em;
+	font-weight: bold;
+    background-color: #0d77b6;
+    border-bottom: 1px solid #258ecd;
+	padding: 1em;
+}
+.sidebar-nav a:hover {
+text-decoration: none;
+font-weight: bold;
+border-radius:0px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #258ecd;
+    color: #fff !important;
+  background-color: transparent !important;
+}
+/*This styles the tabs for the left menu*/
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+        color: white;
+        background-color:#0d77b6;
+    }
+
+#tabs.nav.nav-pills { /* style for tabs in left side bar */
+	display: table;
+	width : 100%;
+    margin-left: 15px;
+    padding-top:5px;
+    padding-right:3px;
+    position:relative;
+    left:-14px;
+}
+#tabs.nav.nav-pills  li {
+	display: table-cell;
+	width: 100%;
+	text-align: center;
+	white-space: nowrap;
+    font-size:small;
+}
+
+
+.panel-body{
+        width:auto;
+        height:auto;
+        z-index:999;
+    }
+
+.keywds{
+    position:relative;
+    left:-12px;
+    top:10px;
+}
+.mostrec{
+    position:relative;
+    left:-15px;
+    top:10px;
+}
+.wfield{
+    position:relative;
+    left:-15px;
+    top:10px;
+
+}
+
+#divider1{
+    width:100%;
+    border-top:solid;
+    color:white;
+}
+#divider2{
+    width:100%;
+    border-top:solid;
+    color:white;
+    position:relative;
+    left:-50px;
+    padding-bottom:10px;
+
+}
+.form-group.form-inline{
+    padding-top:5px;
+    left:15px;
+    position:relative;
+}
+
+.radio-inline{
+	display:table-cell;
+	width: 75%;
+	text-align:center;
+	white-space: nowrap;
+    font-size:14px;
+    font-weight:bold;  
+    
+}
+
+.radio-inline, .radio{
+    line-height:16px;
+}
+
+.radiobtns{
+    padding-top:15px;
+    padding-bottom:15px;
+    border-top:solid;
+    border-bottom:solid;
+    color:white;
+}
+
+.calendar{
+    border-bottom:solid;
+    color:white;
+    padding-left:15px;
+    padding-bottom:20px;
+}
+
+.form-group.calendar input{
+    color:black;
+    text-align:center;
+    font-size:small;
+    width:35%;
+    padding:5px;
+}
+.calendar2,
+.calendar label{
+    font-size:13.5px;
+}
+/*Styling for calendar2*/
+/*.form-group.calendar2{
+    color:white;
+    padding-left:0px;
+    padding-bottom:12px;
+    position:relative;
+    left:0px;
+    top:10px;
+}
+.form-group.calendar2 input{
+    color:black;
+    text-align:center;
+    width:100px;
+    left:5px;
+    position:relative;
+}
+#cal2tolabel{
+    position:relative;
+    left:5px;
+}
+#datepicker4{
+    position:relative;
+    left:10px;
+}*/
+/*Basic styling for the labels and lists for both left menus*/
+.form-group select{
+    width:auto;
+    font-size:11.6px;
+    color:black;
+}
+.form-group label{
+    color:white;
+    font-size:13.5px;
+}
+.form-group input{
+    width:10px;
+}
+/*This is to style the for dropdown lists in graph data menu*/
+#ofSubLists li{ 
+    list-style-type: none;
+    left:-27px;
+    position: relative;
+    width:auto;
+}
+#gbSubLists li{
+    list-style-type: none;
+    left:-40px;
+    position:relative;
+    width:auto;
+}
+.grpby{
+    top:-8px;
+    position:relative;
+}
+.grpby select{
+    left:27px;
+    position:relative;
+}
+#hidethis {
+    font-weight: lighter;
+
+}
+#for select {
+    font-weight: lighter;
+
+}
+
+/**********************/
+.creategbtn{
+    padding-left:6em;
+    padding-bottom:5em;
+}
+
+.creategbtn button{
+    font-size:16px;
+    padding:15px;
+    text-align:center;
+    /*left:25px;*/
+    position:relative;
+    width:11em;
+}
+/*.filterbtns{
+    position:relative;
+    left:75px;
+}
+.filterbtns button{
+    font-size:16px;
+    padding:10px;
+    text-align:center;
+}*/
+
+
+

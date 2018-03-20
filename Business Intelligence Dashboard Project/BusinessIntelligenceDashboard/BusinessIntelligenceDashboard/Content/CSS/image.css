@@ -1,0 +1,19 @@
+﻿label.gpic > input{ /* HIDE RADIO */
+  display:none;
+}
+label.gpic > input + img{ /* IMAGE STYLES */
+  position:relative;
+  top:5px;
+  left:5px;
+  height:115px;
+  width:155px;
+  cursor:pointer;
+  border:1px solid transparent;
+  padding:3px;
+  margin-bottom:5px;
+}
+
+label.gpic > input:checked + img{ /* (CHECKED) IMAGE STYLES */
+  border:6px solid #0d77b6;
+  padding:1px;
+}

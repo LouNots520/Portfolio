@@ -1,0 +1,139 @@
+/* ------------------------------------------------------------- */
+/* -------------------------Output------------------------------ */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:18:02
+-------------------------------------------------------
+
+---- Exam Scores ----
+78.0  Kathy Roe
+45.0  Lilian McRae
+60.0  Joan Tiedeman
+72.5  Hank Davidson
+54.0  Annamarie Russo
+98.0  Jon Dosteyevsky
+30.5  Hannah Ryger
+91.0  Vince Capobello
+87.0  Brian Beckham
+53.5  Liam Carroll
+46.0  Samuel Dodds
+98.0  Nelson Ulmann
+20.5  Ari Tsarnyev
+34.5  Jo Finklestein
+96.0  John Olson
+45.0  Grace Vitale
+78.0  Wes Hurlbert
+69.0  Ilya Petravich
+84.0  John Quincy
+98.0  Zheng Yao
+56.0  Edna Mendenhall
+54.0  Annamarie Russo
+98.0  Jon Dosteyevsky
+
+Average Score: 67.2
+
+Students who scored the max score of 98.0:
+Jon Dosteyevsky
+Nelson Ulmann
+Zheng Yao
+Jon Dosteyevsky
+
+Normal termination.
+Press any key to continue . . .
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:21:18
+-------------------------------------------------------
+
+---- Exam Scores ----
+78.0  Kathy Roe
+90.0  Lilian McRae
+60.0  Joan Tiedeman
+
+Average Score: 76.0
+
+Students who scored the max score of 90.0:
+Lilian McRae
+
+Normal termination.
+Press any key to continue . . .
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:22:28
+-------------------------------------------------------
+
+---- Exam Scores ----
+79.0  Kathy Roe
+79.0  Lilian McRae
+79.0  Joan Tiedeman
+
+Average Score: 79.0
+
+Students who scored the max score of 79.0:
+Kathy Roe
+Lilian McRae
+Joan Tiedeman
+
+Normal termination.
+Press any key to continue . . .
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:23:13
+-------------------------------------------------------
+
+---- Exam Scores ----
+12.0  Kathy Roe
+
+Average Score: 12.0
+
+Students who scored the max score of 12.0:
+Kathy Roe
+
+Normal termination.
+Press any key to continue . . .
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:25:58
+-------------------------------------------------------
+File exams.txt is empty!
+
+
+Press '.' and 'Enter' to continue
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:27:10
+-------------------------------------------------------
+Cannot open exams.txt for reading!
+
+
+Press '.' and 'Enter' to continue
+/* ------------------------------------------------------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Sep 24 2013  13:29:16
+-------------------------------------------------------
+Invalid score read: -80.0
+
+
+Press '.' and 'Enter' to continue
+/* ------------------------------------------------------------- */
+

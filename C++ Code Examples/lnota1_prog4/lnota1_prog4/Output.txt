@@ -1,0 +1,72 @@
+/* --------------------------- Program 4 Output ---------------------------- */
+
+---------------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Nov 19 2013 12:19:35
+---------------------------------------------------------------
+
+Please enter the number of cards to be dealt to each hand: 52
+Invalid number entered: 52
+Please enter the number of cards to be dealt to each hand: 5
+
+-------- First Hand Cards ---------
+Cards in object: 5
+
+(7 Diamonds)(7 Spades  )(7 Clubs   )(2 Spades  )(6 Spades  )
+
+-------- Second Hand Cards --------
+Cards in object: 5
+
+(6 Hearts  )(7 Hearts  )(2 Diamonds)(5 Hearts  )(5 Spades  )
+
+----- Remaining Cards In Deck -----
+Cards in object: 42
+
+(3 Clubs   )(4 Hearts  )(2 Clubs   )(A Spades  )(T Diamonds)(2 Hearts  )
+(T Spades  )(Q Diamonds)(8 Hearts  )(K Diamonds)(9 Hearts  )(4 Clubs   )
+(J Clubs   )(T Hearts  )(K Hearts  )(6 Clubs   )(4 Spades  )(Q Spades  )
+(9 Spades  )(6 Diamonds)(8 Diamonds)(9 Clubs   )(9 Diamonds)(5 Diamonds)
+(3 Spades  )(Q Clubs   )(J Hearts  )(J Spades  )(K Spades  )(5 Clubs   )
+(8 Spades  )(A Clubs   )(K Clubs   )(3 Hearts  )(A Hearts  )(8 Clubs   )
+(Q Hearts  )(A Diamonds)(3 Diamonds)(J Diamonds)(4 Diamonds)(T Clubs   )
+
+
+Normal termination.
+Press any key to continue . . .
+
+/* ------------------------------------------------------------------------- */
+
+---------------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Tue Nov 19 2013 12:21:50
+---------------------------------------------------------------
+
+Please enter the number of cards to be dealt to each hand: 26
+
+-------- First Hand Cards ---------
+Cards in object: 26
+
+(2 Spades  )(5 Diamonds)(Q Clubs   )(5 Spades  )(8 Clubs   )(6 Diamonds)
+(5 Clubs   )(7 Clubs   )(4 Clubs   )(8 Spades  )(2 Hearts  )(2 Diamonds)
+(Q Diamonds)(6 Hearts  )(7 Diamonds)(7 Hearts  )(9 Hearts  )(J Spades  )
+(K Diamonds)(9 Diamonds)(7 Spades  )(Q Hearts  )(4 Hearts  )(T Diamonds)
+(6 Spades  )(J Hearts  )
+
+-------- Second Hand Cards --------
+Cards in object: 26
+
+(T Clubs   )(8 Hearts  )(4 Diamonds)(6 Clubs   )(9 Clubs   )(A Clubs   )
+(K Spades  )(T Spades  )(K Hearts  )(3 Hearts  )(9 Spades  )(2 Clubs   )
+(Q Spades  )(4 Spades  )(K Clubs   )(T Hearts  )(J Diamonds)(3 Clubs   )
+(J Clubs   )(3 Diamonds)(A Diamonds)(A Hearts  )(A Spades  )(8 Diamonds)
+(3 Spades  )(5 Hearts  )
+
+----- Remaining Cards In Deck -----
+Cards in object: 0
+
+
+
+Normal termination.
+Press any key to continue . . .

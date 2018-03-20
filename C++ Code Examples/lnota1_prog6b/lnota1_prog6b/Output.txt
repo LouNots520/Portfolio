@@ -1,0 +1,139 @@
+/* --------------- Program 6b Output --------------- */
+?
+-------------------------------------------------------
+        Louis Notarino
+        CSCI 2212
+        Wed Dec 18 2013  15:21:51
+-------------------------------------------------------
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 100
+Sorry! No match found for ID: 100
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 520
+Congratulations! You've won an Xbox One!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 520
+Entered ID is an already winning ID!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 777
+Sorry! No match found for ID: 777
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 598
+Congratulations! You've won a half eaten cookie!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 162
+Congratulations! You've won an iPhone 5s!
+
+Enter another ID? (Y/N): T
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 027
+Congratulations! You've won new car!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 316
+Congratulations! You've won a sandwich!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 690
+Sorry! No match found for ID: 690
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 266
+Congratulations! You've won $1,000!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 701
+Congratulations! You've won trip for two to Hawaii!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 329
+Congratulations! You've won 22 cents!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 448
+Congratulations! You've won a double A battery!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 839
+Congratulations! You've won a high five!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 085
+No more remaining prizes.
+Be sure to try again next week!
+
+Enter another ID? (Y/N): Y
+
+
+Greetings! Ready to test how lucky you are?
+
+Please enter the last three digits in your student ID: 123
+Sorry! No match found for ID: 123
+
+Enter another ID? (Y/N): N
+
+Normal termination.
+Press any key to continue . . .

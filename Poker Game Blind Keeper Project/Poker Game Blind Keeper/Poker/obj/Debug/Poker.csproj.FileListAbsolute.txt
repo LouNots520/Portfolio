@@ -1,0 +1,27 @@
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.pdb
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.Properties.Resources.resources
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.exe
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.pdb
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.GrudithPoker.resources
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.GrudithPoker.resources
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\bin\Debug\Poker.exe.config
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.exe
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.pdb
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\bin\Debug\Poker.exe
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\bin\Debug\Poker.pdb
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.GrudithPoker.resources
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\Lou\Dropbox\Cayou\Poker Game Blind Keeper\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache

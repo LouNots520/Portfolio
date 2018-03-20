@@ -1,0 +1,94 @@
+﻿@using System.Data
+@model DataSet
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 12pt;
+        }
+
+        table {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+        }
+
+        table th {
+            background-color: #F7F7F7;
+            color: darkgreen;
+            font-weight: bold;
+        }
+
+        table th, table td {
+            padding: 5px;
+            border: 1px solid #ccc;
+        }
+
+        h1, h2{
+            color: navy
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center" font-size: 18pt>
+        POKER LEAGUE STATISTICS
+    </h1>
+    <br>
+
+    <table cellpadding="0" cellspacing="0" align="center">
+        <tr>
+            <th>Player</th>
+            <th>&nbsp Points &nbsp</th>
+            <th>Games Played</th>
+            <th>Winnings</th>
+            <th>&nbsp Rating &nbsp</th>
+            <th>In The Money</th>
+            <th>First Place Finishes</th>
+        </tr>
+        @foreach (DataRow row in Model.Tables[0].Rows)
+        {
+            <tr>
+                <td>@row["Player"]</td>
+                <td align="center">@row["Points"]</td>
+                <td align="center">@row["Games Played"]</td>
+                @if (Math.Round(Convert.ToDouble(row["Winnings"]), 2) < 0)
+                {
+                    <td align="center">$ (@(Math.Round(Convert.ToDouble(row["Winnings"]), 2)*-1))</td>
+                }
+                else
+                {
+                    <td align="center">$ @Math.Round(Convert.ToDouble(row["Winnings"]), 2)</td>
+                }
+                <td align="center">@row["Rating"]</td>
+                <td align="center">@(Convert.ToDouble(row["In The Money"])*100) %</td>
+                <td align="center">@row["First Place Finishes"]</td>
+            </tr>
+        }
+    </table>
+
+    <br>
+    <br>
+    <hr width=100% align=left>
+
+    <br>
+    <h2 align="center" font-size 16pt>
+        GAME HISTORY
+    </h2>
+
+    @foreach (DataTable t in ViewBag.GAMEDETS.Tables)
+    {
+        foreach (DataRow r in t.Rows)
+        {
+            @Html.Action("Index", "GameHistory", new { param = r })
+        }
+    }
+</body>
+</html>

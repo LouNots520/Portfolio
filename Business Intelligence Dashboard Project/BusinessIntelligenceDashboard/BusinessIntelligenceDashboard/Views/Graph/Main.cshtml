@@ -1,0 +1,469 @@
+﻿@model BusinessIntelligenceDashboard.Models.GraphModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DocuWare</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+    <!--JavaScript/jQuery files-->
+    <script src="~/Scripts/jquery-2.2.4.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/CSS/component.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/CSS/default.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/CSS/navbar.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/CSS/media.css" />
+    <link href="~/Content/CSS/image.css" rel="stylesheet" />
+    <link href="~/Content/CSS/logoutpop.css" rel="stylesheet" />
+    <link href="~/Content/CSS/newdashpop.css" rel="stylesheet" />
+    <link href="~/Content/CSS/duplicatedashpop.css" rel="stylesheet" />
+
+    <!--stylesheet specifically for the sidebar-->
+    <link rel="stylesheet" href="~/Content/CSS/sidebar.css" />
+    <link rel="stylesheet" href="~/Content/CSS/image-picker.css" />
+
+    
+    <script src="~/Scripts/Highcharts-4.0.1/js/highcharts.js"></script>
+    <script src="~/Scripts/JS/class.js"></script>
+    <script src="~/Scripts/JS/image-picker.js"></script>
+    <script src="~/Scripts/JS/main.js"></script>
+    <script src="~/Scripts/JS/logoutpop.js"></script>
+    <script src="~/Scripts/JS/newdashpop.js"></script>
+    <script src="~/Scripts/JS/duplicatedashpop.js"></script>
+
+    <!--tutorial-->
+    
+    <link rel="stylesheet" href="~/Content/CSS/style.css">
+    
+</head>
+<body>
+
+    <div id="wrapper">
+
+        <div id="navbar-wrapper">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <img src="~/Content/Images/logo.png" class="navbar-brand img-responsive" alt="Logo">
+                    </div>
+                    <div class="nav navbar-nav navbar-right pull-left">
+                        <div class="btn-group" id="mainbtns">
+                            <button type="button" class="btn btn-primary btn-responsive" id="newDash" role="button">
+                                <i class="fa fa-plus fa-2x"></i>
+                            </button>
+                            <button id="showTop" data-toggle="collapse" data-target="#tools" class="btn btn-primary btn-responsive">
+                                <i class="fa fa-angle-double-down fa-2x"></i>
+                            </button>
+                            <button type="button" class="btn btn-primary btn-responsive" role="button" id="logout">
+                                <i class="fa fa-power-off fa-2x"></i>
+                            </button>
+                        </div>
+                        <div class="logoutpop btn-responsive pull-left">
+                            <label class="confirm" for="confirm">Logout?</label>
+                            <p>
+                                <input type="submit" value="Yes" name="Yes" id="Yes" onclick="location.href='@Url.Action("LogOut", "Graph")'" />
+                                <input type="submit" value="No" name="No" id="No" />
+                            </p>
+                        </div>
+                        <div class="newdashpop btn-responsive pull-left">
+                            <label class="confirm" for="confirm">New Dashboard Name:</label>
+                            @Html.TextBox("dashboardname", null, new { @class = "dNameget" })
+                            <p>
+                                <input type="submit" value="Create" name="Create" id="Create" onclick="location.href='@Url.Action("NewDash", "Graph", new {  } )'" class="dNameset"/>
+                                <input type="button" value="Cancel" name="Cancel2" id="Cancel2" />
+                            </p>
+                        </div>
+                    </div>
+                    <div>
+                        <button type="button" class="btn btn-primary btn-responsive navbar-toggle" data-toggle="collapse" data-target="#myNavbar"><i class="fa fa fa-bars fa-2x"></i></button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <div class="nav navbar-nav">
+                            <div class="dTabs">
+                                <ul id="dashTabContainer" class="nav nav-tabs" style="margin-top: 1.3em; border-bottom-width: 1px;">
+                                    @if (ViewBag.Dashboards.Count > 0)
+                                    {
+                                        foreach (var dash in ViewBag.Dashboards)
+                                        {
+                                            if (dash.active == true)
+                                            {
+                                                <li class="active"><a href="#@dash.name" data-toggle="tab">@dash.name</a></li>
+                                            }
+                                            else
+                                            {
+                                                <li><a href="#@dash.name" data-toggle="tab">@dash.name</a></li>
+                                            }
+                                        }
+                                    }
+                                </ul>
+                            </div>
+
+                            <div id="tools" class="collapse">
+                                <nav class="navbar">
+                                    @*<button type="button" class="btn btn-primary btn-responsive"><i class="fa fa-undo fa-2x"></i></button>
+                                    <button type="button" class="btn btn-primary btn-responsive"><i class="fa fa-repeat fa-2x"></i></button>*@
+                                    <button type="button" class="btn btn-primary btn-responsive" id="duplicatebtn"><i class="fa fa-files-o fa-2x"></i></button>
+                                    <button type="button" class="btn btn-primary btn-responsive toDelete" id="trashbtn" onclick="location.href='@Url.Action("DeleteDash", "Graph", new {  } )'"><i class="fa fa-trash fa-2x"></i></button>
+                                    <button type="button" class="btn btn-primary btn-responsive" id="printbtn"><i class="fa fa-print fa-2x"></i></button>
+                                    @*<button type="button" class="btn btn-primary btn-responsive"><i class="fa fa-floppy-o fa-2x"></i></button>*@
+                                    <button type="button" class="btn btn-primary btn-responsive" id="helpbtn"><i class="fa fa-question-circle fa-2x"></i></button>
+                                    <div class="duplicatedashpop btn-responsive pull-left">
+                                        <label class="confirm" for="confirm">Duplicate Dashboard With Name:</label>
+                                        @Html.TextBox("newname", null, new { @class = "newDashName" })
+                                        <p>
+                                            <input type="submit" value="Duplicate" name="Duplicate" id="Duplicate" onclick="location.href='@Url.Action("Duplicate", "Graph", new {  } )'" class="newNameset" />
+                                            <input type="button" value="Cancel" name="Cancel1" id="Cancel1" />
+                                        </p>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div id="pageWrapper">
+            <div id="sidebar-wrapper">
+                <div class="sidebar-nav">
+
+                    <nav class="tabNav">
+                        <ul class="nav nav-pills" id="tabs">
+                            <li class="active"><a data-toggle="pill" href="#menu1">Graph Menu</a></li>
+                            @*<li><a data-toggle="pill" href="#menu2">Dashboard Filter</a></li>*@
+                        </ul>
+                    </nav>
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="tab-content">
+                            <!-- Graph Data Menu -->
+                            <div class="tab-pane fade in active" id="menu1">
+                                @Html.EditorFor(Model => Model.DashID)
+                                <label class="gpic">
+                                    @Html.RadioButtonFor(Model => Model.gType, 0)
+                                    <img src="~/Content/Images/line.png" />
+                                </label>
+                                <label class="gpic">
+                                    @Html.RadioButtonFor(Model => Model.gType, 5)
+                                    <img src="~/Content/Images/hbar.png" />
+                                </label>
+                                <label class="gpic">
+                                    @Html.RadioButtonFor(Model => Model.gType, 4)
+                                    <img src="~/Content/Images/vbar.png" />
+                                </label>
+                                <label class="gpic">
+                                    @Html.RadioButtonFor(Model => Model.gType, 6)
+                                    <img src="~/Content/Images/pie.png" />
+                                </label>
+                                
+                                <br/>
+                                <br/>
+                                <div id="divider1"> </div>
+                                <br/>
+                                <div class="form-group form-inline amt1">
+                                    <label for="amount">Amount:</label>
+                                    @Html.DropDownListFor(model => model.amount, new SelectList(
+                                            new List<Object>{
+                                                        new { value = 1 , text = "Sum" },
+                                                        new { value = 2 , text = "Count" }
+                                                },
+                                            "value",
+                                            "text"
+                                            ), new { @class = "form-control" })
+                                    <label id="of" for="of">of:</label>
+                                    <label id="hidethis">
+                                         @Html.DropDownListFor(Model => Model.sField, new SelectList(ViewBag.SDDF, "Value", "Text"),
+                                                            new { @class = "form-control" })
+                                    </label>
+                                    <br/>
+                                    <br/>
+                                    <label id="for" for="for">for:
+
+                                        @Html.DropDownListFor(Model => Model.cField, new SelectList(ViewBag.CDDF, "Value", "Text"),
+                                                        new { @class = "form-control" })
+                                    </label>
+
+                                    <ul  class="form-group"  id="ofSubLists" >
+                                        @foreach (List<SelectListItem> L in ViewBag.SUBDDF)
+                                        {
+                                            <li>
+                                                @Html.DropDownListFor(Model => Model.cSubField, new SelectList(L, "Value", "Text"),
+                                            new { @class = "form-control" })
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+                                <div class="form-group form-inline grpby">
+                                    <label  id="groupby" for="groupby">Group By (x-axis):</label> <br/>
+                                    @Html.DropDownListFor(Model => Model.gbField, new SelectList(ViewBag.GBDDF, "Value", "Text"),
+                                            new { @class = "form-control" })
+                                    <ul  class="form-group form-inline" id="gbSubLists" >
+                                    @foreach (List<SelectListItem> L in ViewBag.SUBDDF)
+                                    {
+                                        <li>
+                                        @Html.DropDownListFor(Model => Model.gbSubField, new SelectList(L, "Value", "Text"),
+                                            new { @class = "form-control" })
+                                        </li>
+                                    }
+                                    </ul>
+                                </div>
+                                <div class="form-group form-inline" id="timeInterval">
+
+                                    <label for="timeint">Time Interval:</label>
+                                    @Html.DropDownListFor(model => model.timeInt, new SelectList(
+                                            new List<Object>{
+                                                        new { value = 0 , text = "None" },
+                                                        new { value = 1 , text = "Monthly" },
+                                                        new { value = 2 , text = "Yearly"}
+                                                },
+                                            "value",
+                                            "text"
+                                            ), new { @class = "form-control" })
+
+                                </div>
+                                <div class="radiobtns">
+                                    <label class="radio-inline radio-responsive">
+                                        Range
+                                        @Html.RadioButtonFor(Model => Model.range, 1, new { @style = "margin-left: 5px;" })
+                                    </label>
+                                    <label class="radio-inline radio-responsive">
+                                        None
+                                        @Html.RadioButtonFor(Model => Model.range, 0, new { @style = "margin-left: 5px;" })
+                                    </label>
+                                </div>
+                                <br>
+                                <div class="form-group calendar">
+                                    <label class="control-label" for="from">From:</label>
+                                    @Html.EditorFor(model => model.startDate, new { @class = "form-control" })
+                                    <label class="control-label" for="to">To:</label>
+                                    @Html.EditorFor(model => model.endDate, new { @class = "form-control" })
+                                </div>
+                                <div class="creategbtn">
+                                    <button type="submit" class="btn btn-primary btn-responsive" alt="Submit">Create</button>
+                                </div>
+                            </div>
+
+                            <!-- Dashboard Filter Menu -->
+                            @*<div class="tab-pane" id="menu2">
+                                <div class="container">
+                                    <form role="form">
+                                        <div class="form-group form-inline">
+                                            <div class="keywds">
+                                                <label class="control-label" for="keys">Keyword(s):</label>
+                                                <input type="text" class="form-control" placeholder="Enter Any word">
+                                            </div>
+                                         </div>
+                     
+                                        <div class="form-group form-inline">
+                                            <div class="mostrec">
+                                                <label for="mostrec">Most Recent:</label>
+                                                <select class="form-control">
+                                                    <option value="1">10</option>
+                                                    <option value="2">30</option>
+                                                    <option value="3">50</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-inline">
+                                            <div class="wfield">
+                                                <label for="field">With Field:</label>
+                                                <select class="form-control">
+                                                    <option value="1">Company</option>
+                                                    <option value="2">Department</option>
+                                                    <option value="3">Invoice</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group form-inline calendar2">
+                                            <label class="control-label" for="from2">From:</label><input type="text" class="form-control" id="datepicker3">
+                                            <label class="control-label" id="cal2tolabel" for="to2">To:</label><input type="text" class="form-control" id="datepicker4">
+                                        </div>
+                                        <div id="divider2"> </div>
+                                        <div class="form-group">
+                                            <div class="filterbtns">
+                                                <button type="button" class="btn btn-primary btn-responsive">Filter</button>
+                                                <button type="button" class="btn btn-primary btn-responsive">Remove Filter</button>
+                                            </div>
+                                        </div>
+
+                                    </form>
+                                </div>
+                            </div>*@
+                        </div>
+                    }
+
+                </div> <!--close sidebar-nav-->
+                <!--Sidebar Button-->
+                <button type="button"
+                        class="btn btn-primary btn-responsive"
+                        id="showLeft"
+                        alt="Close">
+                    <i class="fa fa-angle-double-right fa-2x"></i>
+                </button>
+            </div><!--close sidebar-wrapper-->
+
+            <div id="pageContentWrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div id="workspaceContent" class="tab-content">
+                            @if (ViewBag.Dashboards.Count > 0)
+                            {
+                                int x = 0;
+                                foreach (var dash in ViewBag.Dashboards)
+                                {
+                                    if (dash.active == true) {
+                                        <div class="tab-pane active" id="@dash.name">
+                                            @if (dash.charts != null)
+                                            {
+                                                foreach (var chart in dash.charts)
+                                                {
+                                                    <div class="col-xs-6">
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading">
+                                                                <input id="del2" class="btn pull-right" type="button" value="Delete" onclick="location.href='@Url.Action("DeleteGraph", "Graph", new { dashboardname = dash.name, id = x })'" />
+                                                            </div><!--panel-heading-->
+                                                                <div class="panel-body" id="printableArea">
+                                                                    @chart
+                                                                </div>
+                                                            </div><!--panel-->
+                                                    </div><!--6 col-->
+                                                    ++x;
+                                                }
+                                                x = 0;
+                                            }
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <!--CHANGE TO ABOVE AREA ONCE PRINT AND STYLING IS DONE-->
+                                        <div class="tab-pane" id="@dash.name">
+                                            @if (dash.charts != null)
+                                            {
+                                                foreach (var chart in dash.charts)
+                                                {
+                                                    <div class="col-xs-6">
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading">
+                                                                <input id="del2" class="btn pull-right" type="button" value="Delete" onclick="location.href='@Url.Action("DeleteGraph", "Graph", new { dashboardname = dash.name, id = x })'" />
+                                                            </div><!--panel-heading-->
+                                                            <div class="panel-body" id="printableArea">
+                                                                @chart
+                                                            </div>
+                                                        </div><!--panel-->
+                                                    </div><!--6 col-->
+                                                    ++x;
+                                                }
+                                                x = 0;
+                                            }
+                                            @*@if (dash.charts != null)
+                                            {
+                                                foreach (var chart in dash.charts)
+                                                {
+                                                    <div class="col-xs-6">
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading">
+                                                                <input id="del2" class="btn pull-right" type="button" onclick="location.href='@Url.Action("DeleteGraph", "Graph", new { dashboardname = dash.name, id = x })'" />
+                                                            </div>
+                                                            <div class="panel-body" id="printableArea">
+                                                                @chart
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    ++x;
+                                                }
+                                                x = 0;
+                                            }*@
+                                        </div>
+                                    }
+                                }
+                            }
+                        </div><!--workspace-->
+                        
+                    </div><!--row-->
+                </div><!--container-->
+                
+          </div><!--pagecontentwrapper-->
+
+     </div><!--pagewrapper-->
+  </div><!--wrapper-->
+    <!--Tutorial----------------------------------------------------------------------------->
+    <div class="container">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3>Tutorial</h3>
+
+                    </div><!--modal-header-->
+                    <div class="modal-body">
+                        <div class="cont">
+                            <div id="myCarousel" class="carousel slide">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                                </ol>
+                                <div class="carousel-inner">
+
+                                    <div class="item active">
+                                        <img src="~/Content/Images/screen0.png" alt="Slide2">
+                                        <div class="carousel-caption">
+                                            <h2>Welcome</h2>
+                                            <p>To get started let’s review the main features of DocuWare.  Click the arrow to the right above to begin.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="item">
+
+                                        <img src="~/Content/Images/screen1.png" alt="Slide2">
+                                        <div class="carousel-caption">
+                                            <h2>Working area</h2>
+                                            <p>This area is used to generate dashboards and graphs. The toolbar menu gives you the option to duplicate, delete and print a dashboard. Also, anytime you need to go over this tutorial, click on the help icon.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="item">
+                                        <img src="~/Content/Images/screen2.png" alt="Slide2">
+                                        <div class="carousel-caption">
+                                            <h2>Graph Menu</h2>
+                                            <p>The graph menu allows you to create graphs whitin the dashboard area.</p>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="~/Content/Images/screen3.png" alt="Slide2">
+                                        <div class="carousel-caption">
+                                            <h2>Graph Menu Continued</h2>
+                                            <p>Once all all of the data to be sorted has been selected, click the create button to display your graph. You can create as many graphs as you'd like as well as dashboards.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-controls">
+                                <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                                <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+                            </div>
+                        </div><!--cont-->
+                    </div><!--modal-body-->
+                  </div><!--modal-cont-->
+               </div><!--modal-dialog-->
+             </div><!--modal fade-->
+    </div><!--container-->
+</body>
+</html>

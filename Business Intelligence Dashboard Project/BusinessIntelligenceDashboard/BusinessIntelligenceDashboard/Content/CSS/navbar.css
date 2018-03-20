@@ -1,0 +1,15 @@
+﻿.nav-tabs > li .close {
+    margin: -3px 0 0 10px;
+    font-size: 18px;
+    padding: 5px 0;
+    float: right;
+}
+
+.nav-tabs > li a[data-toggle=tab] {
+    float: left!important;
+}
+
+#dashTab {
+    margin-top: 21px!important;
+    border-bottom-width: 0px!important;
+}

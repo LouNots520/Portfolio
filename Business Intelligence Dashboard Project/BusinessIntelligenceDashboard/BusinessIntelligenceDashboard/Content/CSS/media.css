@@ -1,0 +1,241 @@
+﻿@media screen and (max-width:768px) {
+    #pageWrapper {
+        padding-left: 350px;
+    }
+
+    #pageWrapper.toggled {
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+
+    #sidebar-wrapper {
+        width: 350px;
+    }
+
+    #pageWrapper.toggled #sidebar-wrapper {
+        width: 0px;
+    }
+
+    #pageContentWrapper {
+        padding: 10px;
+        position:fixed;
+        
+    }
+
+    #pageWrapper.toggled #page-content-wrapper {
+        position:relative;
+        margin-right:0px;
+    }
+    #pageContentWrapper .col-xs-6{
+        padding-left: 0px !important;
+        width:50%;
+}
+    #pageContentWrapper .col-xs-6 .panel{
+        width:80%;
+        position: relative;
+   }
+   #pageWrapper.toggled #pageContentWrapper .col-xs-6{
+       position: relative;
+       margin-right:0px;
+       width:50%;
+   }
+    
+}
+@media screen and (max-width:768px){
+    /*This is just for the labels, radio, lists so they stay the same size & position when minimized*/
+    
+    .amt1{
+        position:relative;
+        top:5px;
+
+    }
+     .amt1 select{
+        position:relative;
+        top:-30px;
+        left:65px;
+    }
+     #of{
+        position:relative;
+        top:-64px;
+        left:148px;
+
+     }
+     #hidethis{
+        position:relative;
+        top:-34px;
+        left:83px;
+
+     }
+     #hidethis select{
+        position:relative;
+        top:-30px;
+        left:65px;
+
+     }
+     #for{
+        position:relative;
+        top:-60px;
+        left:0px;
+
+     }
+     #for select{
+        position:relative;
+        top:-25px;
+        left:30px;
+        font-weight:lighter;
+
+     }
+
+     #ofSubLists select{
+        position: relative;
+        width:auto;
+        top:-125px;
+        left:165px;
+     }
+
+     #gbSubLists select{
+        list-style-type: none;
+        left:163px;
+        top:-39px;
+        position:relative;
+        width:auto;
+}
+     div.grpby{
+        top:-120px;
+        position:relative;
+}
+     div.grpby select{
+        left:30px;
+        position:relative;
+}
+    div #timeInterval {
+        position:relative;
+        top:15px;
+    }  
+     #timeInterval label{
+        position:relative;
+        top:-160px;
+        left:0px;
+    }
+    #timeInterval select{
+        position:relative;
+        top:-190px;
+        left:103px;
+    }
+    .radiobtns{
+        top:-175px;
+        position:relative;
+
+    }
+    .calendar{
+        top:-175px;
+        position:relative;
+    }
+    .creategbtn{
+        top:-175px;
+        position:relative;
+    }
+
+    /*for tablet size keywords*/
+    div.keywds{
+        top:15px;
+        left:-12px;
+    }
+    .form-group input{
+        width:auto;
+        padding:5px;
+}
+    div.keywds input{
+        position:relative;
+        left:88px;
+        top:-30px;
+        width:60%;
+}
+    div.mostrec{
+        position:relative;
+        left:-12px;
+        top:-10px;
+}
+    div.mostrec select {
+        position: relative;
+        left: 95px;
+        top: -30px;
+    }
+    div.wfield{
+        position:relative;
+        left:-15px;
+        top:-35px;
+
+}
+    div.wfield select {
+        position: relative;
+        left: 78px;
+        top: -30px;
+    }
+    div.form-group.calendar2 {
+        color: white;
+        padding-left: 0px;
+        padding-bottom: 12px;
+        position: relative;
+        left: 0px;
+        top: -65px;
+}
+    div.calendar2 #datepicker3{
+        position:relative;
+        left:45px;
+        top:-30px;
+        width:35%;
+    }
+    div.calendar2 #cal2tolabel{
+        position:relative;
+        left:158px;
+        top:-60px;
+    }
+    div.calendar2 #datepicker4{
+        position:relative;
+        left:185px;
+        top:-90px;
+        width:35%;
+    }
+    div #divider2{
+        position:relative;
+        top:-160px;
+        left:-20px;
+        width:150%;
+        overflow:hidden;
+    }
+    div.filterbtns{
+        position:relative;
+        top:-170px;
+        left:0px;
+        font-size:16px;
+        padding:10px;
+        text-align:center;
+}
+    
+}
+
+@media screen and (max-width: 768px) {
+  .btn-responsive {
+    padding:2px 4px;
+    font-size:80%;
+    line-height: 1;
+    border-radius:3px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .btn-responsive {
+    padding:4px 9px;
+    font-size:90%;
+    line-height: 1.2;
+  }
+  
+}
+@media print {
+  header .nav,.panel-heading input #del2, button, .btn, #sidebar-wrapper { /*This hides all properties fro being printed on the page*/
+  display: none;
+}
+  
+  }
+

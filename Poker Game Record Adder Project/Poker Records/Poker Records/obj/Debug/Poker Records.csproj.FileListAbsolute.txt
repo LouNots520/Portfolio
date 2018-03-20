@@ -1,0 +1,27 @@
+c:\users\lnot3_000\documents\visual studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.exe.config
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker_Records.Properties.Resources.resources
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.csproj.GenerateResource.Cache
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker_Records.Record_Adder.resources
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\bin\Debug\Poker Records.exe.config
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker Records.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker Records.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\bin\Debug\Poker Records.exe
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\bin\Debug\Poker Records.pdb
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker Records.csprojResolveAssemblyReference.cache
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker_Records.Record_Adder.resources
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker_Records.Properties.Resources.resources
+C:\Users\Lnot3_000\Documents\Visual Studio 2015\Projects\Poker Records - Old (WORKING)\Poker Records\obj\Debug\Poker Records.csproj.GenerateResource.Cache
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.exe.config
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.pdb
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\bin\Debug\Poker Records.pdb
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.csprojResolveAssemblyReference.cache
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker_Records.Record_Adder.resources
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker_Records.Properties.Resources.resources
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker Records\Poker Records\obj\Debug\Poker Records.csproj.GenerateResource.Cache

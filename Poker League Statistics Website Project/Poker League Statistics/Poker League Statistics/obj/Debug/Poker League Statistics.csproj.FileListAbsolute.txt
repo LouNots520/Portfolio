@@ -1,0 +1,33 @@
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\obj\Debug\Poker League Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\csc.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\vbc.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Poker League Statistics.dll.config
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Poker League Statistics.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Poker League Statistics.pdb
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Helpers.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Mvc.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Razor.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Razor.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Helpers.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\bin\System.Web.Mvc.xml
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\obj\Debug\Poker League Statistics.dll
+C:\Users\Lou\Documents\Visual Studio 2015\Projects\Poker League Statistics\Poker League Statistics\obj\Debug\Poker League Statistics.pdb

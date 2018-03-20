@@ -1,0 +1,45 @@
+﻿Build started 3/12/2018 4:57:59 PM.
+     1>Project "E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\lnota1_prog4\lnota1_prog4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt card.cpp deck.cpp main.cpp tools.cpp
+         tools.cpp
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(127): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\time.h(475): note: see declaration of 'ctime'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(128): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(129): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(131): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(146): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\time.h(475): note: see declaration of 'ctime'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(147): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(148): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(164): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\time.h(475): note: see declaration of 'ctime'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(165): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\tools.cpp(206): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+         main.cpp
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\card.hpp(11): warning C4091: 'typedef ': ignored on left of 'SuitT' when no variable is declared
+         deck.cpp
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\card.hpp(11): warning C4091: 'typedef ': ignored on left of 'SuitT' when no variable is declared
+         card.cpp
+     1>e:\school work\fall 2013 semester\c\p4\lnota1_prog4\lnota1_prog4\card.hpp(11): warning C4091: 'typedef ': ignored on left of 'SuitT' when no variable is declared
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\Debug\lnota1_prog4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\Debug\lnota1_prog4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\Debug\lnota1_prog4.lib" /MACHINE:X86 Debug\card.obj
+         Debug\deck.obj
+         Debug\main.obj
+         Debug\tools.obj
+     1>LINK : fatal error LNK1207: incompatible PDB format in 'E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\Debug\lnota1_prog4.pdb'; delete and rebuild
+     1>Done Building Project "E:\School Work\Fall 2013 Semester\C\P4\lnota1_prog4\lnota1_prog4\lnota1_prog4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.23

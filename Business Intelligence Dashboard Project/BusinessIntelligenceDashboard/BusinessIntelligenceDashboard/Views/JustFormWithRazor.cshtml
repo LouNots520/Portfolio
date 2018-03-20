@@ -1,0 +1,116 @@
+﻿@model BusinessIntelligenceDashboard.Models.GraphModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Main</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/JS/main.js"></script>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>GraphModel</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <div class="col-md-10">
+                    @Html.RadioButtonFor(Model => Model.gtype, 1)
+                    @Html.RadioButtonFor(Model => Model.gtype, 2)
+                    @Html.RadioButtonFor(Model => Model.gtype, 3)
+                    @Html.RadioButtonFor(Model => Model.gtype, 4)
+
+                    @Html.ValidationMessageFor(model => model.gtype, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    None: @Html.RadioButtonFor(Model => Model.range, 0)
+                    Range: @Html.RadioButtonFor(Model => Model.range, 1)
+
+                    @Html.ValidationMessageFor(model => model.range, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10 calendar">
+                    From: @Html.EditorFor(model => model.startDate, new { htmlAttributes = new { @class = "form-control", @id = "datepicker" } })
+                    @Html.ValidationMessageFor(model => model.startDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10 calendar">
+                    To: @Html.EditorFor(model => model.endDate, new { htmlAttributes = new { @class = "form-control", @id = "datepicker" } })
+                    @Html.ValidationMessageFor(model => model.endDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    Time Interval:@Html.DropDownListFor(model => model.timeInt, new SelectList(
+                          new List<Object>{
+                               new { value = 1 , text = "Monthly" },
+                               new { value = 2 , text = "Yearly"}
+                            },
+                          "value",
+                          "text"
+                           ))
+
+                    @Html.ValidationMessageFor(model => model.timeInt, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    Amount:@Html.DropDownListFor(model => model.amount, new SelectList(
+                          new List<Object>{
+                               new { value = 1 , text = "Sum" },
+                               new { value = 2 , text = "Count"}
+                            },
+                          "value",
+                          "text"
+                           ))
+                    @Html.ValidationMessageFor(model => model.amount, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    of: @Html.EditorFor(model => model.sfieldIndex)
+    @*@Html.DropDownListFor(Model => Model.sfieldIndex, new SelectList(ViewBag.DropDownFields, "Value", "Text"))*@
+                    @Html.ValidationMessageFor(model => model.sfieldIndex, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    Group By: @Html.EditorFor(model => model.gbIndex)
+    @*@Html.DropDownListFor(Model => Model.gbIndex, new SelectList(ViewBag.DropDownFields, "Value", "Text"))*@
+                    @Html.ValidationMessageFor(model => model.gbIndex, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>
